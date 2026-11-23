@@ -121,7 +121,11 @@ function App() {
             >
               LinkedIn ↗
             </a>
-            <a href="https://github.com/" target="_blank" rel="noreferrer">
+            <a
+              href="https://github.com/aishwarya282004/My-Portfolio"
+              target="_blank"
+              rel="noreferrer"
+            >
               GitHub ↗
             </a>
             <a href="mailto:aishwaryapatil22178@gmail.com">Email ↗</a>
@@ -177,7 +181,7 @@ function App() {
                 <h5>Diploma in Computer Science and Engineering</h5>
                 <p>
                   KLE's C.B.Kore Polytechnic Chikodi, affiliated with Department
-                  of Technical Education, Karnataka with 8.34 CGPA
+                  of Technical Education, Karnataka with 8.62 CGPA
                 </p>
               </div>
               <div className="detail-card">
